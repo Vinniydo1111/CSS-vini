@@ -3,4 +3,22 @@
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color: green;
+    color: aquamarine;
 }
+.cabecalho{
+    text-align: center;
+    background-color: #800080;
+    color: aquamarine;
+}
+.cabecalho p:first-child {
+    font-size: 32px;
+    color: aquamarine;
+    font-weight: bold;
+}
+
+.conteudo {
+    background-color: purple;
+    color: aqua;
+}
+
